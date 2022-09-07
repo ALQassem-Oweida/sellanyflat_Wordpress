@@ -1,0 +1,3554 @@
+# Copyright (C) 2022 Gutenverse
+# This file is distributed under the same license as the Gutenverse package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-04-29T05:23:52+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: gutenverse\n"
+
+#: backend.js:1
+#: block.js:1
+msgid "Title"
+msgstr ""
+
+#: backend.js:1
+msgid "Form Title"
+msgstr ""
+
+#: backend.js:1
+msgid "Require Login"
+msgstr ""
+
+#: backend.js:1
+msgid "Only approve submission if user login"
+msgstr ""
+
+#: backend.js:1
+msgid "Capture User Browser Data"
+msgstr ""
+
+#: backend.js:1
+msgid "Store user's browser data (ip, browser name, etc)"
+msgstr ""
+
+#: backend.js:1
+#: block.js:1
+msgid "General"
+msgstr ""
+
+#: backend.js:1
+msgid "Confirmation"
+msgstr ""
+
+#: backend.js:1
+msgid "Notification"
+msgstr ""
+
+#: backend.js:1
+msgid "Create Form Action"
+msgstr ""
+
+#: backend.js:1
+#: settings.js:1
+msgid "Saving..."
+msgstr ""
+
+#: backend.js:1
+msgid "Create Form"
+msgstr ""
+
+#: backend.js:1
+#: block.js:1
+msgid "Cancel"
+msgstr ""
+
+#: backend.js:1
+msgid "Edit Form Action"
+msgstr ""
+
+#: backend.js:1
+msgid "Edit Form"
+msgstr ""
+
+#: backend.js:1
+msgid "Thank You For Subscribing Our Newsletter"
+msgstr ""
+
+#: backend.js:1
+msgid "Start Building"
+msgstr ""
+
+#: backend.js:1
+msgid "Subscribe to Get The Latest News on Gutenverse"
+msgstr ""
+
+#: backend.js:1
+msgid "Subscribe"
+msgstr ""
+
+#: backend.js:1
+msgid "there is an error requesting subscription."
+msgstr ""
+
+#: backend.js:1
+msgid "please use a valid email address format."
+msgstr ""
+
+#: backend.js:1
+msgid "please input an email address."
+msgstr ""
+
+#: backend.js:1
+msgid "Join to be one of early users to subscribed."
+msgstr ""
+
+#: backend.js:1
+msgid "Build Stunning Website using Gutenverse"
+msgstr ""
+
+#: backend.js:1
+msgid "Rate Gutenverse Plugin"
+msgstr ""
+
+#: backend.js:1
+msgid "Share your feedback and what you like about the plugin. It means a lot to us. You can click link below to post review."
+msgstr ""
+
+#: backend.js:1
+msgid "Rate Us"
+msgstr ""
+
+#: backend.js:1
+msgid "Technical Support"
+msgstr ""
+
+#: backend.js:1
+msgid "If you have any difficulties using our plugin, please contact us below."
+msgstr ""
+
+#: backend.js:1
+msgid "Contact Us"
+msgstr ""
+
+#: block.js:1
+msgid "Animation Entrance"
+msgstr ""
+
+#: block.js:1
+msgid "Duration"
+msgstr ""
+
+#: block.js:1
+msgid "Normal"
+msgstr ""
+
+#: block.js:1
+msgid "Slow"
+msgstr ""
+
+#: block.js:1
+msgid "Fast"
+msgstr ""
+
+#: block.js:1
+msgid "Delay"
+msgstr ""
+
+#: block.js:1
+msgid "Image & Color"
+msgstr ""
+
+#: block.js:1
+msgid "Gradient"
+msgstr ""
+
+#: block.js:1
+msgid "Video"
+msgstr ""
+
+#: block.js:1
+msgid "Background Type"
+msgstr ""
+
+#: block.js:1
+msgid "Background Color"
+msgstr ""
+
+#: block.js:1
+msgid "Background Image"
+msgstr ""
+
+#: block.js:1
+msgid "Background Position"
+msgstr ""
+
+#: block.js:1
+msgid "Default"
+msgstr ""
+
+#: block.js:1
+msgid "Center center"
+msgstr ""
+
+#: block.js:1
+msgid "Center Left"
+msgstr ""
+
+#: block.js:1
+msgid "Center Right"
+msgstr ""
+
+#: block.js:1
+msgid "Top Center"
+msgstr ""
+
+#: block.js:1
+msgid "Top Left"
+msgstr ""
+
+#: block.js:1
+msgid "Top Right"
+msgstr ""
+
+#: block.js:1
+msgid "Bottom Center"
+msgstr ""
+
+#: block.js:1
+msgid "Bottom Left"
+msgstr ""
+
+#: block.js:1
+msgid "Bottom Right"
+msgstr ""
+
+#: block.js:1
+msgid "Custom"
+msgstr ""
+
+#: block.js:1
+msgid "X Position"
+msgstr ""
+
+#: block.js:1
+msgid "Y Position"
+msgstr ""
+
+#: block.js:1
+msgid "Repeat"
+msgstr ""
+
+#: block.js:1
+msgid "No repeat"
+msgstr ""
+
+#: block.js:1
+msgid "Repeat-x"
+msgstr ""
+
+#: block.js:1
+msgid "Repeat-y"
+msgstr ""
+
+#: block.js:1
+msgid "Size"
+msgstr ""
+
+#: block.js:1
+msgid "Auto"
+msgstr ""
+
+#: block.js:1
+msgid "Cover"
+msgstr ""
+
+#: block.js:1
+msgid "Contain"
+msgstr ""
+
+#: block.js:1
+msgid "Width"
+msgstr ""
+
+#: block.js:1
+msgid "Gradient Color"
+msgstr ""
+
+#: block.js:1
+msgid ""
+"Drag a circle outside the box to remove it. \n"
+"You can't remove if there are only two left."
+msgstr ""
+
+#: block.js:1
+msgid "Gradient Type"
+msgstr ""
+
+#: block.js:1
+msgid "Linear"
+msgstr ""
+
+#: block.js:1
+msgid "Radial"
+msgstr ""
+
+#: block.js:1
+msgid "Angle"
+msgstr ""
+
+#: block.js:1
+msgid "Radial Position"
+msgstr ""
+
+#: block.js:1
+msgid "Center Center"
+msgstr ""
+
+#: block.js:1
+msgid "Video Link"
+msgstr ""
+
+#: block.js:1
+msgid "Start Time"
+msgstr ""
+
+#: block.js:1
+msgid "End Time"
+msgstr ""
+
+#: block.js:1
+msgid "Play Once"
+msgstr ""
+
+#: block.js:1
+msgid "Play On Mobile"
+msgstr ""
+
+#: block.js:1
+msgid "Background Fallback"
+msgstr ""
+
+#: block.js:1
+msgid "Clear Border"
+msgstr ""
+
+#: block.js:1
+msgid "Style"
+msgstr ""
+
+#: block.js:1
+msgid "Color"
+msgstr ""
+
+#: block.js:1
+msgid "Border Radius"
+msgstr ""
+
+#: block.js:1
+msgid "Box Shadow"
+msgstr ""
+
+#: block.js:1
+msgid "Refresh"
+msgstr ""
+
+#: block.js:1
+msgid "Horizontal"
+msgstr ""
+
+#: block.js:1
+msgid "Vertical"
+msgstr ""
+
+#: block.js:1
+msgid "Blur"
+msgstr ""
+
+#: block.js:1
+msgid "Spread"
+msgstr ""
+
+#: block.js:1
+msgid "Type"
+msgstr ""
+
+#: block.js:1
+msgid "None"
+msgstr ""
+
+#: block.js:1
+msgid "Arrow"
+msgstr ""
+
+#: block.js:1
+msgid "Curve"
+msgstr ""
+
+#: block.js:1
+msgid "Curve Asymetrical"
+msgstr ""
+
+#: block.js:1
+msgid "Curve Asymetrical 2"
+msgstr ""
+
+#: block.js:1
+msgid "Curve Negative"
+msgstr ""
+
+#: block.js:1
+msgid "Curve Opacity"
+msgstr ""
+
+#: block.js:1
+msgid "Mountain"
+msgstr ""
+
+#: block.js:1
+msgid "Mountain Opacity"
+msgstr ""
+
+#: block.js:1
+msgid "Papertear"
+msgstr ""
+
+#: block.js:1
+msgid "Split"
+msgstr ""
+
+#: block.js:1
+msgid "Split Negative"
+msgstr ""
+
+#: block.js:1
+msgid "Tilt"
+msgstr ""
+
+#: block.js:1
+msgid "Tilt Gradient"
+msgstr ""
+
+#: block.js:1
+msgid "Triangle"
+msgstr ""
+
+#: block.js:1
+msgid "Triangle Opacity"
+msgstr ""
+
+#: block.js:1
+msgid "Triangle Asymetrical"
+msgstr ""
+
+#: block.js:1
+msgid "Triangle Asymetrical Opacity"
+msgstr ""
+
+#: block.js:1
+msgid "Triangle Negative"
+msgstr ""
+
+#: block.js:1
+msgid "Triangle Negative Opacity"
+msgstr ""
+
+#: block.js:1
+msgid "Waves"
+msgstr ""
+
+#: block.js:1
+msgid "Waves 2"
+msgstr ""
+
+#: block.js:1
+msgid "Waves Opacity"
+msgstr ""
+
+#: block.js:1
+msgid "Waves Opacity 2"
+msgstr ""
+
+#: block.js:1
+msgid "Waves Opacity 3"
+msgstr ""
+
+#: block.js:1
+msgid "Zig Zag"
+msgstr ""
+
+#: block.js:1
+msgid "Height"
+msgstr ""
+
+#: block.js:1
+msgid "Flip"
+msgstr ""
+
+#: block.js:1
+msgid "Bring to Front"
+msgstr ""
+
+#: block.js:1
+msgid "Color Mode"
+msgstr ""
+
+#: block.js:1
+msgid "Gradient Angle"
+msgstr ""
+
+#: block.js:1
+msgid "Gradient Color 2"
+msgstr ""
+
+#: block.js:1
+msgid "Gradient Angle 2"
+msgstr ""
+
+#: block.js:1
+msgid "Gradient Color 3"
+msgstr ""
+
+#: block.js:1
+msgid "Gradient Angle 3"
+msgstr ""
+
+#: block.js:1
+msgid "Change Image"
+msgstr ""
+
+#: block.js:1
+msgid "Select Image"
+msgstr ""
+
+#: block.js:1
+msgid "Image Size"
+msgstr ""
+
+#: block.js:1
+msgid "Image Filter"
+msgstr ""
+
+#: block.js:1
+msgid "Brightness"
+msgstr ""
+
+#: block.js:1
+msgid "Contrast"
+msgstr ""
+
+#: block.js:1
+msgid "Saturation"
+msgstr ""
+
+#: block.js:1
+msgid "Hue"
+msgstr ""
+
+#: block.js:1
+msgid "Add Item"
+msgstr ""
+
+#: block.js:1
+msgid "Search..."
+msgstr ""
+
+#: block.js:1
+msgid "Type to start searching..."
+msgstr ""
+
+#: block.js:1
+msgid "Text Shadow"
+msgstr ""
+
+#: block.js:1
+msgid "Generate"
+msgstr ""
+
+#: block.js:1
+msgid "PRO"
+msgstr ""
+
+#: block.js:1
+msgid "Upgrade to Pro to use this option."
+msgstr ""
+
+#: block.js:1
+msgid "Desktop"
+msgstr ""
+
+#: block.js:1
+msgid "Tablet"
+msgstr ""
+
+#: block.js:1
+msgid "Phone"
+msgstr ""
+
+#: block.js:1
+msgid "No Option"
+msgstr ""
+
+#: block.js:1
+msgid "Gutenverse Icon Library"
+msgstr ""
+
+#: block.js:1
+msgid "Filter Icon"
+msgstr ""
+
+#: block.js:1
+msgid "Insert Icon"
+msgstr ""
+
+#: block.js:1
+msgid "Choose Icon"
+msgstr ""
+
+#: block.js:1
+msgid "Color Variable"
+msgstr ""
+
+#: block.js:1
+msgid "Variable Color"
+msgstr ""
+
+#: block.js:1
+msgid "Manage Variable Color"
+msgstr ""
+
+#: block.js:1
+msgid "Default Colors"
+msgstr ""
+
+#: block.js:1
+msgid "Theme Colors"
+msgstr ""
+
+#: block.js:1
+msgid "Custom Colors"
+msgstr ""
+
+#: block.js:1
+msgid "Color Picker"
+msgstr ""
+
+#: block.js:1
+msgid "Empty Variable Font"
+msgstr ""
+
+#: block.js:1
+msgid "Font Variable"
+msgstr ""
+
+#: block.js:1
+msgid "Variable Font"
+msgstr ""
+
+#: block.js:1
+msgid "Typography"
+msgstr ""
+
+#: block.js:1
+msgid "Font Family"
+msgstr ""
+
+#: block.js:1
+msgid "Weight"
+msgstr ""
+
+#: block.js:1
+msgid "Bold"
+msgstr ""
+
+#: block.js:1
+msgid "100"
+msgstr ""
+
+#: block.js:1
+msgid "200"
+msgstr ""
+
+#: block.js:1
+msgid "300"
+msgstr ""
+
+#: block.js:1
+msgid "400"
+msgstr ""
+
+#: block.js:1
+msgid "500"
+msgstr ""
+
+#: block.js:1
+msgid "600"
+msgstr ""
+
+#: block.js:1
+msgid "700"
+msgstr ""
+
+#: block.js:1
+msgid "800"
+msgstr ""
+
+#: block.js:1
+msgid "900"
+msgstr ""
+
+#: block.js:1
+msgid "Decoration"
+msgstr ""
+
+#: block.js:1
+msgid "Underline"
+msgstr ""
+
+#: block.js:1
+msgid "Overline"
+msgstr ""
+
+#: block.js:1
+msgid "Line Through"
+msgstr ""
+
+#: block.js:1
+msgid "Line Height"
+msgstr ""
+
+#: block.js:1
+msgid "Transform"
+msgstr ""
+
+#: block.js:1
+msgid "Uppercase"
+msgstr ""
+
+#: block.js:1
+msgid "Lowercase"
+msgstr ""
+
+#: block.js:1
+msgid "Capitalize"
+msgstr ""
+
+#: block.js:1
+msgid "Italic"
+msgstr ""
+
+#: block.js:1
+msgid "Oblique"
+msgstr ""
+
+#: block.js:1
+msgid "Letter Spacing"
+msgstr ""
+
+#: block.js:1
+msgid "Back"
+msgstr ""
+
+#: block.js:1
+msgid "Select Column"
+msgstr ""
+
+#: block.js:1
+msgid "Section variations"
+msgstr ""
+
+#: block.js:1
+msgid "1 Column"
+msgstr ""
+
+#: block.js:1
+msgid "2 Column"
+msgstr ""
+
+#: block.js:1
+msgid "3 Column"
+msgstr ""
+
+#: block.js:1
+msgid "4 Column"
+msgstr ""
+
+#: block.js:1
+msgid "5 Column"
+msgstr ""
+
+#: block.js:1
+msgid " 2 Column"
+msgstr ""
+
+#: block.js:1
+msgid "50 / 50"
+msgstr ""
+
+#: block.js:1
+msgid "66 / 33"
+msgstr ""
+
+#: block.js:1
+msgid "33 / 66"
+msgstr ""
+
+#: block.js:1
+msgid " 3 Column"
+msgstr ""
+
+#: block.js:1
+msgid "33 / 33 / 33"
+msgstr ""
+
+#: block.js:1
+msgid "25 / 25 / 50"
+msgstr ""
+
+#: block.js:1
+msgid "25 / 50 / 25"
+msgstr ""
+
+#: block.js:1
+msgid "50 / 25 / 25"
+msgstr ""
+
+#: block.js:1
+msgid "17 / 66 / 17"
+msgstr ""
+
+#: block.js:1
+msgid "Fullwidth Section"
+msgstr ""
+
+#: block.js:1
+msgid "Normal Width Section"
+msgstr ""
+
+#: block.js:1
+msgid "Change section width"
+msgstr ""
+
+#: block.js:1
+msgid "Content Width"
+msgstr ""
+
+#: block.js:1
+msgid "Container Width"
+msgstr ""
+
+#: block.js:1
+msgid "Wrap Column 100%"
+msgstr ""
+
+#: block.js:1
+msgid "If the current wrap is unchecked, it will use the higher resolution's wrap value."
+msgstr ""
+
+#: block.js:1
+msgid "Column Gap"
+msgstr ""
+
+#: block.js:1
+msgid "Minimum Height"
+msgstr ""
+
+#: block.js:1
+msgid "Column Position"
+msgstr ""
+
+#: block.js:1
+msgid "Vertical Align"
+msgstr ""
+
+#: block.js:1
+msgid "Overflow"
+msgstr ""
+
+#: block.js:1
+msgid "Margin"
+msgstr ""
+
+#: block.js:1
+msgid "Padding"
+msgstr ""
+
+#: block.js:1
+msgid "Z Index"
+msgstr ""
+
+#: block.js:1
+msgid "Opacity Normal"
+msgstr ""
+
+#: block.js:1
+msgid "Opacity Hover"
+msgstr ""
+
+#: block.js:1
+msgid "Border Type"
+msgstr ""
+
+#: block.js:1
+msgid "Hide on Desktop"
+msgstr ""
+
+#: block.js:1
+msgid "Hide on Tablet"
+msgstr ""
+
+#: block.js:1
+msgid "Hide on Mobile"
+msgstr ""
+
+#: block.js:1
+msgid "Heading Color"
+msgstr ""
+
+#: block.js:1
+msgid "Text Color"
+msgstr ""
+
+#: block.js:1
+msgid "Link Color"
+msgstr ""
+
+#: block.js:1
+msgid "Link Hover Color"
+msgstr ""
+
+#: block.js:1
+msgid "Text Alignment"
+msgstr ""
+
+#: block.js:1
+msgid "Align Left"
+msgstr ""
+
+#: block.js:1
+msgid "Align Center"
+msgstr ""
+
+#: block.js:1
+msgid "Align Right"
+msgstr ""
+
+#: block.js:1
+msgid "Align Justify"
+msgstr ""
+
+#: block.js:1
+msgid "Custom Width"
+msgstr ""
+
+#: block.js:1
+msgid "Align"
+msgstr ""
+
+#: block.js:1
+msgid "Location"
+msgstr ""
+
+#: block.js:1
+msgid "Left Orientation"
+msgstr ""
+
+#: block.js:1
+msgid "Right Orientation"
+msgstr ""
+
+#: block.js:1
+msgid "Top Orientation"
+msgstr ""
+
+#: block.js:1
+msgid "Bottom Orientation"
+msgstr ""
+
+#: block.js:1
+msgid "Layouts"
+msgstr ""
+
+#: block.js:1
+msgid "Structure"
+msgstr ""
+
+#: block.js:1
+msgid "Background"
+msgstr ""
+
+#: block.js:1
+msgid "Background Overlay"
+msgstr ""
+
+#: block.js:1
+msgid "Border"
+msgstr ""
+
+#: block.js:1
+msgid "Shape Divider"
+msgstr ""
+
+#: block.js:1
+msgid "Display"
+msgstr ""
+
+#: block.js:1
+msgid "Animation Effects"
+msgstr ""
+
+#: block.js:1
+msgid "Spacing"
+msgstr ""
+
+#: block.js:1
+msgid "Column Width"
+msgstr ""
+
+#: block.js:1
+msgid "Horizontal Align"
+msgstr ""
+
+#: block.js:1
+msgid "Column Order"
+msgstr ""
+
+#: block.js:1
+msgid "Gap"
+msgstr ""
+
+#: block.js:1
+msgid "Alignment"
+msgstr ""
+
+#: block.js:1
+msgid "Add Content"
+msgstr ""
+
+#: block.js:1
+msgid " Content Alignment"
+msgstr ""
+
+#: block.js:1
+msgid "Divider Icon"
+msgstr ""
+
+#: block.js:1
+msgid "Icon Size"
+msgstr ""
+
+#: block.js:1
+msgid "Divider General"
+msgstr ""
+
+#: block.js:1
+msgid "Divider Content"
+msgstr ""
+
+#: block.js:1
+msgid "Default Active"
+msgstr ""
+
+#: block.js:1
+msgid "Accordion Title"
+msgstr ""
+
+#: block.js:1
+msgid "Left"
+msgstr ""
+
+#: block.js:1
+msgid "Right"
+msgstr ""
+
+#: block.js:1
+msgid "Icon Spacing"
+msgstr ""
+
+#: block.js:1
+msgid "Normal Icon"
+msgstr ""
+
+#: block.js:1
+msgid "Active Icon"
+msgstr ""
+
+#: block.js:1
+msgid "Normal Icon Control"
+msgstr ""
+
+#: block.js:1
+msgid "Active Icon Control"
+msgstr ""
+
+#: block.js:1
+msgid "Title Tag"
+msgstr ""
+
+#: block.js:1
+msgid "Accordion Item"
+msgstr ""
+
+#: block.js:1
+msgid "Icon"
+msgstr ""
+
+#: block.js:1
+msgid "Body"
+msgstr ""
+
+#: block.js:1
+msgid "Positioning"
+msgstr ""
+
+#: block.js:1
+msgid "Animation Style"
+msgstr ""
+
+#: block.js:1
+msgid "Loop"
+msgstr ""
+
+#: block.js:1
+msgid "Text color"
+msgstr ""
+
+#: block.js:1
+msgid "Setting"
+msgstr ""
+
+#: block.js:1
+msgid "Tab Orientation"
+msgstr ""
+
+#: block.js:1
+msgid "Border Width"
+msgstr ""
+
+#: block.js:1
+msgid "Border Color"
+msgstr ""
+
+#: block.js:1
+msgid "Title Text Color"
+msgstr ""
+
+#: block.js:1
+msgid "Title Active Text Color"
+msgstr ""
+
+#: block.js:1
+msgid "Title Typography"
+msgstr ""
+
+#: block.js:1
+msgid "Content Text Color"
+msgstr ""
+
+#: block.js:1
+msgid "Content Typography"
+msgstr ""
+
+#: block.js:1
+msgid "Content"
+msgstr ""
+
+#: block.js:1
+msgid "Add New Tab"
+msgstr ""
+
+#: block.js:1
+msgid "New Tab"
+msgstr ""
+
+#: block.js:1
+msgid "Delete Tab"
+msgstr ""
+
+#: block.js:1
+msgid "Video Source"
+msgstr ""
+
+#: block.js:1
+msgid "Video URL"
+msgstr ""
+
+#: block.js:1
+msgid "Currently supported External URL Types are : YouTube, Twitch, Vimeo, and DailyMotion"
+msgstr ""
+
+#: block.js:1
+msgid "Video Start"
+msgstr ""
+
+#: block.js:1
+msgid "in second"
+msgstr ""
+
+#: block.js:1
+msgid "Video End"
+msgstr ""
+
+#: block.js:1
+msgid "Hide Control"
+msgstr ""
+
+#: block.js:1
+msgid "Autoplay Video"
+msgstr ""
+
+#: block.js:1
+msgid "Muted"
+msgstr ""
+
+#: block.js:1
+msgid "Add Caption"
+msgstr ""
+
+#: block.js:1
+msgid "Custom Caption"
+msgstr ""
+
+#: block.js:1
+msgid "Caption Space"
+msgstr ""
+
+#: block.js:1
+msgid "Caption Color"
+msgstr ""
+
+#: block.js:1
+msgid "Type/Paste Video URL Here"
+msgstr ""
+
+#: block.js:1
+msgid "Spacing Horizontal"
+msgstr ""
+
+#: block.js:1
+msgid "Spacing Vertical"
+msgstr ""
+
+#: block.js:1
+msgid "Dots Width"
+msgstr ""
+
+#: block.js:1
+msgid "Dots Height"
+msgstr ""
+
+#: block.js:1
+msgid "Dots Border Radius"
+msgstr ""
+
+#: block.js:1
+msgid "Dots Color"
+msgstr ""
+
+#: block.js:1
+msgid "Active Width"
+msgstr ""
+
+#: block.js:1
+msgid "Active Height"
+msgstr ""
+
+#: block.js:1
+msgid "Active Border Radius"
+msgstr ""
+
+#: block.js:1
+msgid "Active Color"
+msgstr ""
+
+#: block.js:1
+msgid "Arrow Size"
+msgstr ""
+
+#: block.js:1
+msgid "Normal Color"
+msgstr ""
+
+#: block.js:1
+msgid "Normal Padding"
+msgstr ""
+
+#: block.js:1
+msgid "Normal Margin"
+msgstr ""
+
+#: block.js:1
+msgid "Normal Opacity"
+msgstr ""
+
+#: block.js:1
+msgid "Hover Color"
+msgstr ""
+
+#: block.js:1
+msgid "Background Hover Color"
+msgstr ""
+
+#: block.js:1
+msgid "Hover Padding"
+msgstr ""
+
+#: block.js:1
+msgid "Hover Margin"
+msgstr ""
+
+#: block.js:1
+msgid "Hover Opacity"
+msgstr ""
+
+#: block.js:1
+msgid "Hover Box Shadow"
+msgstr ""
+
+#: block.js:1
+msgid "Client Logos"
+msgstr ""
+
+#: block.js:1
+msgid "Client Logo"
+msgstr ""
+
+#: block.js:1
+msgid "Hover Logo"
+msgstr ""
+
+#: block.js:1
+msgid "Fix Height"
+msgstr ""
+
+#: block.js:1
+msgid "Image Fit"
+msgstr ""
+
+#: block.js:1
+msgid "Number Showed"
+msgstr ""
+
+#: block.js:1
+msgid "Show Dots"
+msgstr ""
+
+#: block.js:1
+msgid "Show Arrow"
+msgstr ""
+
+#: block.js:1
+msgid "Slider Setting"
+msgstr ""
+
+#: block.js:1
+msgid "Logo List"
+msgstr ""
+
+#: block.js:1
+msgid "Navigation Arrow"
+msgstr ""
+
+#: block.js:1
+msgid "Navigation Dots"
+msgstr ""
+
+#: block.js:1
+msgid "Logo Style"
+msgstr ""
+
+#: block.js:1
+msgid "Number Prefix"
+msgstr ""
+
+#: block.js:1
+msgid "Number Value"
+msgstr ""
+
+#: block.js:1
+msgid "Number Suffix"
+msgstr ""
+
+#: block.js:1
+msgid "Enable Supper"
+msgstr ""
+
+#: block.js:1
+msgid "Supper"
+msgstr ""
+
+#: block.js:1
+msgid "Number Color"
+msgstr ""
+
+#: block.js:1
+msgid "Title Color"
+msgstr ""
+
+#: block.js:1
+msgid "Number Typography"
+msgstr ""
+
+#: block.js:1
+msgid "Number Bottom Space"
+msgstr ""
+
+#: block.js:1
+msgid "Title Bottom Space"
+msgstr ""
+
+#: block.js:1
+msgid "Number Right Space"
+msgstr ""
+
+#: block.js:1
+msgid "Content Padding"
+msgstr ""
+
+#: block.js:1
+msgid "Title HTML Tag"
+msgstr ""
+
+#: block.js:1
+msgid "Enable Hover Border Bottom"
+msgstr ""
+
+#: block.js:1
+msgid "Border Bottom Color"
+msgstr ""
+
+#: block.js:1
+msgid "Hover Direction"
+msgstr ""
+
+#: block.js:1
+msgid "Icon Type"
+msgstr ""
+
+#: block.js:1
+msgid "Select Icon"
+msgstr ""
+
+#: block.js:1
+msgid "Normal Background Color"
+msgstr ""
+
+#: block.js:1
+msgid "Hover Background Color"
+msgstr ""
+
+#: block.js:1
+msgid "Icon Rotate"
+msgstr ""
+
+#: block.js:1
+msgid "Top"
+msgstr ""
+
+#: block.js:1
+msgid "Horizontal Space"
+msgstr ""
+
+#: block.js:1
+msgid "Vertical Position"
+msgstr ""
+
+#: block.js:1
+msgid "Icon Styling"
+msgstr ""
+
+#: block.js:1
+msgid "Content Styling"
+msgstr ""
+
+#: block.js:1
+msgid "Super"
+msgstr ""
+
+#: block.js:1
+msgid "Button Alignment"
+msgstr ""
+
+#: block.js:1
+msgid "Link (Default)"
+msgstr ""
+
+#: block.js:1
+msgid "Submit"
+msgstr ""
+
+#: block.js:1
+msgid "Info"
+msgstr ""
+
+#: block.js:1
+msgid "Success"
+msgstr ""
+
+#: block.js:1
+msgid "Warning"
+msgstr ""
+
+#: block.js:1
+msgid "Danger"
+msgstr ""
+
+#: block.js:1
+msgid "Extra Small"
+msgstr ""
+
+#: block.js:1
+msgid "Small"
+msgstr ""
+
+#: block.js:1
+msgid "Medium"
+msgstr ""
+
+#: block.js:1
+msgid "Large"
+msgstr ""
+
+#: block.js:1
+msgid "Extra Large"
+msgstr ""
+
+#: block.js:1
+msgid "Set Width"
+msgstr ""
+
+#: block.js:1
+msgid "width calculated in %"
+msgstr ""
+
+#: block.js:1
+msgid "Show Icon"
+msgstr ""
+
+#: block.js:1
+msgid "Before"
+msgstr ""
+
+#: block.js:1
+msgid "After"
+msgstr ""
+
+#: block.js:1
+msgid "Button Padding"
+msgstr ""
+
+#: block.js:1
+msgid "Icon Color"
+msgstr ""
+
+#: block.js:1
+msgid "Hover Text Color"
+msgstr ""
+
+#: block.js:1
+msgid "Hover Icon Color"
+msgstr ""
+
+#: block.js:1
+msgid "Button"
+msgstr ""
+
+#: block.js:1
+msgid "Button Background"
+msgstr ""
+
+#: block.js:1
+msgid "Button Border"
+msgstr ""
+
+#: block.js:1
+msgid "Buttons"
+msgstr ""
+
+#: block.js:1
+msgid "Map Zoom"
+msgstr ""
+
+#: block.js:1
+msgid "Map Height"
+msgstr ""
+
+#: block.js:1
+msgid "Map Filter"
+msgstr ""
+
+#: block.js:1
+msgid "Map Hover Filter"
+msgstr ""
+
+#: block.js:1
+msgid "Heading Type"
+msgstr ""
+
+#: block.js:1
+msgid "Primary Color"
+msgstr ""
+
+#: block.js:1
+msgid "Secondary Color"
+msgstr ""
+
+#: block.js:1
+msgid "Primary Hover Color"
+msgstr ""
+
+#: block.js:1
+msgid "Secondary Hover Color"
+msgstr ""
+
+#: block.js:1
+msgid "Icon Alignment"
+msgstr ""
+
+#: block.js:1
+msgid "Rotate"
+msgstr ""
+
+#: block.js:1
+msgid "Icon View"
+msgstr ""
+
+#: block.js:1
+msgid "Icon Shape"
+msgstr ""
+
+#: block.js:1
+msgid "Total Item to Show"
+msgstr ""
+
+#: block.js:1
+msgid "Animation Duration"
+msgstr ""
+
+#: block.js:1
+msgid "Column"
+msgstr ""
+
+#: block.js:1
+msgid "Grid"
+msgstr ""
+
+#: block.js:1
+msgid "Layout"
+msgstr ""
+
+#: block.js:1
+msgid "Hover Style"
+msgstr ""
+
+#: block.js:1
+msgid "Zoom Icon"
+msgstr ""
+
+#: block.js:1
+msgid "Link Icon"
+msgstr ""
+
+#: block.js:1
+msgid "Control Name"
+msgstr ""
+
+#: block.js:1
+msgid "Image"
+msgstr ""
+
+#: block.js:1
+msgid "Enable Price"
+msgstr ""
+
+#: block.js:1
+msgid "Price Value"
+msgstr ""
+
+#: block.js:1
+msgid "Enable Rating"
+msgstr ""
+
+#: block.js:1
+msgid "Rating"
+msgstr ""
+
+#: block.js:1
+msgid "Enable Category"
+msgstr ""
+
+#: block.js:1
+msgid "Category"
+msgstr ""
+
+#: block.js:1
+msgid "Disable Lightbox"
+msgstr ""
+
+#: block.js:1
+msgid "Disable Link"
+msgstr ""
+
+#: block.js:1
+msgid "Link"
+msgstr ""
+
+#: block.js:1
+msgid "Opacity"
+msgstr ""
+
+#: block.js:1
+msgid "Enable Filtering"
+msgstr ""
+
+#: block.js:1
+msgid "Label for \"All\""
+msgstr ""
+
+#: block.js:1
+msgid "Filter Name"
+msgstr ""
+
+#: block.js:1
+msgid "Star Color"
+msgstr ""
+
+#: block.js:1
+msgid "Enable Load More"
+msgstr ""
+
+#: block.js:1
+msgid "Items Per Load"
+msgstr ""
+
+#: block.js:1
+msgid "Button Text"
+msgstr ""
+
+#: block.js:1
+msgid "No More Text"
+msgstr ""
+
+#: block.js:1
+msgid "Button Icon"
+msgstr ""
+
+#: block.js:1
+msgid "Icon Position"
+msgstr ""
+
+#: block.js:1
+msgid "Margin Top"
+msgstr ""
+
+#: block.js:1
+msgid "Normal Background"
+msgstr ""
+
+#: block.js:1
+msgid "Hover Background"
+msgstr ""
+
+#: block.js:1
+msgid "General Color"
+msgstr ""
+
+#: block.js:1
+msgid "General Background"
+msgstr ""
+
+#: block.js:1
+msgid "Active Background"
+msgstr ""
+
+#: block.js:1
+msgid "Active Box Shadow"
+msgstr ""
+
+#: block.js:1
+msgid "Separator Size"
+msgstr ""
+
+#: block.js:1
+msgid "SeparatorColor"
+msgstr ""
+
+#: block.js:1
+msgid "Text Placeholder"
+msgstr ""
+
+#: block.js:1
+msgid "Icon Background"
+msgstr ""
+
+#: block.js:1
+msgid "Icon Padding"
+msgstr ""
+
+#: block.js:1
+msgid "Icon Border"
+msgstr ""
+
+#: block.js:1
+msgid "Gallery"
+msgstr ""
+
+#: block.js:1
+msgid "Filter"
+msgstr ""
+
+#: block.js:1
+msgid "Load More"
+msgstr ""
+
+#: block.js:1
+msgid "Filter Tab Styling"
+msgstr ""
+
+#: block.js:1
+msgid "Filter & Search Styling"
+msgstr ""
+
+#: block.js:1
+msgid "Icon Style"
+msgstr ""
+
+#: block.js:1
+msgid "Item Style"
+msgstr ""
+
+#: block.js:1
+msgid "Item Hover"
+msgstr ""
+
+#: block.js:1
+msgid "Item Card"
+msgstr ""
+
+#: block.js:1
+msgid "Load More Style"
+msgstr ""
+
+#: block.js:1
+msgid "Thumbnail"
+msgstr ""
+
+#: block.js:1
+msgid "Price & Rating"
+msgstr ""
+
+#: block.js:1
+msgid "Title Padding"
+msgstr ""
+
+#: block.js:1
+msgid "Title Margin"
+msgstr ""
+
+#: block.js:1
+msgid "Title Hover Color"
+msgstr ""
+
+#: block.js:1
+msgid "Description Margin"
+msgstr ""
+
+#: block.js:1
+msgid "Description Color"
+msgstr ""
+
+#: block.js:1
+msgid "Description Hover Color"
+msgstr ""
+
+#: block.js:1
+msgid "Description Typography"
+msgstr ""
+
+#: block.js:1
+msgid "Watermark Color"
+msgstr ""
+
+#: block.js:1
+msgid "Watermark Font Size"
+msgstr ""
+
+#: block.js:1
+msgid "Enable Hover Watermark?"
+msgstr ""
+
+#: block.js:1
+msgid "Hover Watermark Icon"
+msgstr ""
+
+#: block.js:1
+msgid "Show Badge"
+msgstr ""
+
+#: block.js:1
+msgid "Badge Position"
+msgstr ""
+
+#: block.js:1
+msgid "Image Width"
+msgstr ""
+
+#: block.js:1
+msgid "Image Height"
+msgstr ""
+
+#: block.js:1
+msgid "Overlay Direction"
+msgstr ""
+
+#: block.js:1
+msgid "Container Style"
+msgstr ""
+
+#: block.js:1
+msgid "Content Style"
+msgstr ""
+
+#: block.js:1
+msgid "Badge Style"
+msgstr ""
+
+#: block.js:1
+msgid "Display Inline"
+msgstr ""
+
+#: block.js:1
+msgid "Space Between"
+msgstr ""
+
+#: block.js:1
+msgid "Text Indent"
+msgstr ""
+
+#: block.js:1
+msgid "Text Typography"
+msgstr ""
+
+#: block.js:1
+msgid "Text Style"
+msgstr ""
+
+#: block.js:1
+msgid "Hide Icon"
+msgstr ""
+
+#: block.js:1
+msgid "Modify Parent"
+msgstr ""
+
+#: block.js:1
+msgid "Post ID"
+msgstr ""
+
+#: block.js:1
+msgid "Keep this empty to fetch post data from default loop."
+msgstr ""
+
+#: block.js:1
+msgid "No Content Text"
+msgstr ""
+
+#: block.js:1
+msgid "Text to show if there is no content. You can leave this empty"
+msgstr ""
+
+#: block.js:1
+msgid "Author Type"
+msgstr ""
+
+#: block.js:1
+msgid "HTML Tag"
+msgstr ""
+
+#: block.js:1
+msgid "Link To"
+msgstr ""
+
+#: block.js:1
+msgid "Custom URL"
+msgstr ""
+
+#: block.js:1
+msgid "Hover Text color"
+msgstr ""
+
+#: block.js:1
+msgid "Hover Text Shadow"
+msgstr ""
+
+#: block.js:1
+msgid "Date Tag"
+msgstr ""
+
+#: block.js:1
+msgid "Date Type"
+msgstr ""
+
+#: block.js:1
+msgid "Published Date"
+msgstr ""
+
+#: block.js:1
+msgid "Modified Date"
+msgstr ""
+
+#: block.js:1
+msgid "Both Dates"
+msgstr ""
+
+#: block.js:1
+msgid "Date Format"
+msgstr ""
+
+#: block.js:1
+msgid "Relative Date/Time Format (ago)"
+msgstr ""
+
+#: block.js:1
+msgid "Wordpress Default Format"
+msgstr ""
+
+#: block.js:1
+msgid "Custom Format"
+msgstr ""
+
+#: block.js:1
+msgid "Excerpt Tag"
+msgstr ""
+
+#: block.js:1
+msgid "Taxonomy"
+msgstr ""
+
+#: block.js:1
+msgid "Post Tag"
+msgstr ""
+
+#: block.js:1
+msgid "Post Format"
+msgstr ""
+
+#: block.js:1
+msgid "Separator"
+msgstr ""
+
+#: block.js:1
+msgid "Block Type"
+msgstr ""
+
+#: block.js:1
+msgid "Responsive Breakpoint"
+msgstr ""
+
+#: block.js:1
+msgid "Category Position"
+msgstr ""
+
+#: block.js:1
+msgid "Enable Excerpt"
+msgstr ""
+
+#: block.js:1
+msgid "Excerpt Length"
+msgstr ""
+
+#: block.js:1
+msgid "Excerpt's End"
+msgstr ""
+
+#: block.js:1
+msgid "Enable Read More"
+msgstr ""
+
+#: block.js:1
+msgid "Enable Comment"
+msgstr ""
+
+#: block.js:1
+msgid "Enable Post Meta"
+msgstr ""
+
+#: block.js:1
+msgid "Enable Post Author Meta"
+msgstr ""
+
+#: block.js:1
+msgid "Meta Author Preposition"
+msgstr ""
+
+#: block.js:1
+msgid "Enable Post Date Meta"
+msgstr ""
+
+#: block.js:1
+msgid "Pagination Mode"
+msgstr ""
+
+#: block.js:1
+msgid "Note: Auto Load on Scroll effect is disabled in editor mode, but it can be viewed on Preview mode."
+msgstr ""
+
+#: block.js:1
+msgid "\"Load More\" Text"
+msgstr ""
+
+#: block.js:1
+msgid "\"Loading\" Text"
+msgstr ""
+
+#: block.js:1
+msgid "Pagination Post"
+msgstr ""
+
+#: block.js:1
+msgid "Number of Post loaded per Pagination"
+msgstr ""
+
+#: block.js:1
+msgid "Auto Load Limit"
+msgstr ""
+
+#: block.js:1
+msgid "Limit of auto load when scrolling, set to zero to always load until end of content."
+msgstr ""
+
+#: block.js:1
+msgid "Normal color"
+msgstr ""
+
+#: block.js:1
+msgid "Hover color"
+msgstr ""
+
+#: block.js:1
+msgid "Author Typography"
+msgstr ""
+
+#: block.js:1
+msgid "Author color"
+msgstr ""
+
+#: block.js:1
+msgid "Author Icon Spacing"
+msgstr ""
+
+#: block.js:1
+msgid "Date Icon Spacing"
+msgstr ""
+
+#: block.js:1
+msgid "Include Post Type"
+msgstr ""
+
+#: block.js:1
+msgid "Number of Post initially showed"
+msgstr ""
+
+#: block.js:1
+msgid "Post Offset"
+msgstr ""
+
+#: block.js:1
+msgid "Include Post"
+msgstr ""
+
+#: block.js:1
+msgid "Exclude Post"
+msgstr ""
+
+#: block.js:1
+msgid "Include Category"
+msgstr ""
+
+#: block.js:1
+msgid "Exclude Category"
+msgstr ""
+
+#: block.js:1
+msgid "Include Author"
+msgstr ""
+
+#: block.js:1
+msgid "Include Tag"
+msgstr ""
+
+#: block.js:1
+msgid "Exclude Tag"
+msgstr ""
+
+#: block.js:1
+msgid "Sort By"
+msgstr ""
+
+#: block.js:1
+msgid "Latest"
+msgstr ""
+
+#: block.js:1
+msgid "Oldest"
+msgstr ""
+
+#: block.js:1
+msgid "Alphabet Asc"
+msgstr ""
+
+#: block.js:1
+msgid "Alphabet Desc"
+msgstr ""
+
+#: block.js:1
+msgid "Random"
+msgstr ""
+
+#: block.js:1
+msgid "Random Week"
+msgstr ""
+
+#: block.js:1
+msgid "Random Month"
+msgstr ""
+
+#: block.js:1
+msgid "Most Comment"
+msgstr ""
+
+#: block.js:1
+msgid "Overlay Background"
+msgstr ""
+
+#: block.js:1
+msgid "Overlay Opacity"
+msgstr ""
+
+#: block.js:1
+msgid "Hover Typography"
+msgstr ""
+
+#: block.js:1
+msgid "Content Setting"
+msgstr ""
+
+#: block.js:1
+msgid "Pagination"
+msgstr ""
+
+#: block.js:1
+msgid "Post Item"
+msgstr ""
+
+#: block.js:1
+msgid "Thumbnail Overlay"
+msgstr ""
+
+#: block.js:1
+msgid "Thumbnail Container"
+msgstr ""
+
+#: block.js:1
+msgid "Content Container"
+msgstr ""
+
+#: block.js:1
+msgid "Excerpt"
+msgstr ""
+
+#: block.js:1
+msgid "Readmore"
+msgstr ""
+
+#: block.js:1
+msgid "Comment"
+msgstr ""
+
+#: block.js:1
+msgid "Post Meta"
+msgstr ""
+
+#: block.js:1
+msgid "Pagination Style"
+msgstr ""
+
+#: block.js:1
+msgid "Show Featured Image"
+msgstr ""
+
+#: block.js:1
+msgid "Background Featured Image"
+msgstr ""
+
+#: block.js:1
+msgid "Show Meta"
+msgstr ""
+
+#: block.js:1
+msgid "Show Meta Date"
+msgstr ""
+
+#: block.js:1
+msgid "Date Icon"
+msgstr ""
+
+#: block.js:1
+msgid "Show Meta Category"
+msgstr ""
+
+#: block.js:1
+msgid "Category Icon"
+msgstr ""
+
+#: block.js:1
+msgid "Meta Position"
+msgstr ""
+
+#: block.js:1
+msgid "Bottom"
+msgstr ""
+
+#: block.js:1
+msgid "Align Top"
+msgstr ""
+
+#: block.js:1
+msgid "Align Bottom"
+msgstr ""
+
+#: block.js:1
+msgid "Icon Hover Color"
+msgstr ""
+
+#: block.js:1
+msgid "Meta"
+msgstr ""
+
+#: block.js:1
+msgid "Show Caption"
+msgstr ""
+
+#: block.js:1
+msgid "Caption"
+msgstr ""
+
+#: block.js:1
+msgid "Title Icon"
+msgstr ""
+
+#: block.js:1
+msgid "Title Icon Position"
+msgstr ""
+
+#: block.js:1
+msgid "Body Alignment"
+msgstr ""
+
+#: block.js:1
+msgid "Image Padding"
+msgstr ""
+
+#: block.js:1
+msgid "Fil"
+msgstr ""
+
+#: block.js:1
+msgid "Scale Down"
+msgstr ""
+
+#: block.js:1
+msgid "Image Opacity"
+msgstr ""
+
+#: block.js:1
+msgid "Image Hover Opacity"
+msgstr ""
+
+#: block.js:1
+msgid "Image Hover Scale"
+msgstr ""
+
+#: block.js:1
+msgid "Icon Font Size"
+msgstr ""
+
+#: block.js:1
+msgid "Normal Height"
+msgstr ""
+
+#: block.js:1
+msgid "Hover Height"
+msgstr ""
+
+#: block.js:1
+msgid "Image Style"
+msgstr ""
+
+#: block.js:1
+msgid "Body Style"
+msgstr ""
+
+#: block.js:1
+msgid "Title Style"
+msgstr ""
+
+#: block.js:1
+msgid "Description Style"
+msgstr ""
+
+#: block.js:1
+msgid "Floating"
+msgstr ""
+
+#: block.js:1
+msgid "Image Box Title"
+msgstr ""
+
+#: block.js:1
+msgid "Image Box Description"
+msgstr ""
+
+#: block.js:1
+msgid "Show Quote"
+msgstr ""
+
+#: block.js:1
+msgid "Quote Icon"
+msgstr ""
+
+#: block.js:1
+msgid "Testimonial List"
+msgstr ""
+
+#: block.js:1
+msgid "Name"
+msgstr ""
+
+#: block.js:1
+msgid "Profile Picture"
+msgstr ""
+
+#: block.js:1
+msgid "Description"
+msgstr ""
+
+#: block.js:1
+msgid "Name Typography"
+msgstr ""
+
+#: block.js:1
+msgid "Designation Typography"
+msgstr ""
+
+#: block.js:1
+msgid "Designation Spacing"
+msgstr ""
+
+#: block.js:1
+msgid "Quote Icon Size"
+msgstr ""
+
+#: block.js:1
+msgid "Override Quote Position"
+msgstr ""
+
+#: block.js:1
+msgid "Name Color"
+msgstr ""
+
+#: block.js:1
+msgid "Name Hover Color"
+msgstr ""
+
+#: block.js:1
+msgid "Designation Color"
+msgstr ""
+
+#: block.js:1
+msgid "Designation Hover Color"
+msgstr ""
+
+#: block.js:1
+msgid "Quote Icon Color"
+msgstr ""
+
+#: block.js:1
+msgid "Quote Icon Hover Color"
+msgstr ""
+
+#: block.js:1
+msgid "Testimonial Item"
+msgstr ""
+
+#: block.js:1
+msgid "Client Image"
+msgstr ""
+
+#: block.js:1
+msgid "Mobile"
+msgstr ""
+
+#: block.js:1
+msgid "Menu Logo"
+msgstr ""
+
+#: block.js:1
+msgid "Menu Link"
+msgstr ""
+
+#: block.js:1
+msgid "Mobile Menu URL"
+msgstr ""
+
+#: block.js:1
+msgid "Mobile Icon"
+msgstr ""
+
+#: block.js:1
+msgid "Close Icon"
+msgstr ""
+
+#: block.js:1
+msgid "Sub Menu Click On Text"
+msgstr ""
+
+#: block.js:1
+msgid "Menu Height"
+msgstr ""
+
+#: block.js:1
+msgid "Mobile Wrapper Color"
+msgstr ""
+
+#: block.js:1
+msgid "Item Spacing"
+msgstr ""
+
+#: block.js:1
+msgid "Item Text Normal Color"
+msgstr ""
+
+#: block.js:1
+msgid "Item Text Normal Background"
+msgstr ""
+
+#: block.js:1
+msgid "Item Text Hover Color"
+msgstr ""
+
+#: block.js:1
+msgid "Item Text Active Color"
+msgstr ""
+
+#: block.js:1
+msgid "Indicator Item"
+msgstr ""
+
+#: block.js:1
+msgid "Indicator Margin"
+msgstr ""
+
+#: block.js:1
+msgid "Indicator Padding"
+msgstr ""
+
+#: block.js:1
+msgid "Submenu Typography"
+msgstr ""
+
+#: block.js:1
+msgid "Submenu Spacing"
+msgstr ""
+
+#: block.js:1
+msgid "Submenu Text Normal Color"
+msgstr ""
+
+#: block.js:1
+msgid "Indicator Color"
+msgstr ""
+
+#: block.js:1
+msgid "Submenu Text Normal Background"
+msgstr ""
+
+#: block.js:1
+msgid "Submenu Text Hover Color"
+msgstr ""
+
+#: block.js:1
+msgid "Submenu Text Active Color"
+msgstr ""
+
+#: block.js:1
+msgid "Submenu Panel Background"
+msgstr ""
+
+#: block.js:1
+msgid "Submenu Panel Width"
+msgstr ""
+
+#: block.js:1
+msgid "Hamburger Alignment"
+msgstr ""
+
+#: block.js:1
+msgid "Logo Fit"
+msgstr ""
+
+#: block.js:1
+msgid "Mobile Menu"
+msgstr ""
+
+#: block.js:1
+msgid "Menu Wrapper Style"
+msgstr ""
+
+#: block.js:1
+msgid "Item Menu Style"
+msgstr ""
+
+#: block.js:1
+msgid "Submenu Item Style"
+msgstr ""
+
+#: block.js:1
+msgid "Submenu Panel Style"
+msgstr ""
+
+#: block.js:1
+msgid "Hamburger Style"
+msgstr ""
+
+#: block.js:1
+msgid "Mobile Menu Logo"
+msgstr ""
+
+#: block.js:1
+msgid "Menu"
+msgstr ""
+
+#: block.js:1
+msgid "Percent Background Color"
+msgstr ""
+
+#: block.js:1
+msgid "Percent Text Color"
+msgstr ""
+
+#: block.js:1
+msgid "Percent Typography"
+msgstr ""
+
+#: block.js:1
+msgid "Percent Shadow"
+msgstr ""
+
+#: block.js:1
+msgid "Percentage"
+msgstr ""
+
+#: block.js:1
+msgid "Bar Color"
+msgstr ""
+
+#: block.js:1
+msgid "Track Color"
+msgstr ""
+
+#: block.js:1
+msgid "Track Height"
+msgstr ""
+
+#: block.js:1
+msgid "Bar Border Radius"
+msgstr ""
+
+#: block.js:1
+msgid "Track Border Radius"
+msgstr ""
+
+#: block.js:1
+msgid "Bar Padding"
+msgstr ""
+
+#: block.js:1
+msgid "Bar Margin"
+msgstr ""
+
+#: block.js:1
+msgid "Title color"
+msgstr ""
+
+#: block.js:1
+msgid "Title Shadow"
+msgstr ""
+
+#: block.js:1
+msgid "Progress"
+msgstr ""
+
+#: block.js:1
+msgid "Force hide text"
+msgstr ""
+
+#: block.js:1
+msgid "Social Icon Shape"
+msgstr ""
+
+#: block.js:1
+msgid "Show Icon Text"
+msgstr ""
+
+#: block.js:1
+msgid "Display custom text beside icon"
+msgstr ""
+
+#: block.js:1
+msgid "Social Icon Color"
+msgstr ""
+
+#: block.js:1
+msgid "Social Icon Gap"
+msgstr ""
+
+#: block.js:1
+msgid "Spacer Height"
+msgstr ""
+
+#: block.js:1
+msgid "Star Style"
+msgstr ""
+
+#: block.js:1
+msgid "Total"
+msgstr ""
+
+#: block.js:1
+msgid "Content Gap"
+msgstr ""
+
+#: block.js:1
+msgid "Icon Gap"
+msgstr ""
+
+#: block.js:1
+msgid "Icon Color (Marked)"
+msgstr ""
+
+#: block.js:1
+msgid "Icon Color (Unmarked)"
+msgstr ""
+
+#: block.js:1
+msgid "Columns"
+msgstr ""
+
+#: block.js:1
+msgid "Drop Cap"
+msgstr ""
+
+#: block.js:1
+msgid "Dropcap Color"
+msgstr ""
+
+#: block.js:1
+msgid "Dropcap Background Color"
+msgstr ""
+
+#: block.js:1
+msgid "Border radius"
+msgstr ""
+
+#: block.js:1
+msgid "Dropcap"
+msgstr ""
+
+#: block.js:1
+msgid "Name HTML tag"
+msgstr ""
+
+#: block.js:1
+msgid "Overlay Style"
+msgstr ""
+
+#: block.js:1
+msgid "Overlay Content Position"
+msgstr ""
+
+#: block.js:1
+msgid "Job"
+msgstr ""
+
+#: block.js:1
+msgid "Show Description"
+msgstr ""
+
+#: block.js:1
+msgid "Show Social Icons"
+msgstr ""
+
+#: block.js:1
+msgid "Text Space"
+msgstr ""
+
+#: block.js:1
+msgid "Content Alignment"
+msgstr ""
+
+#: block.js:1
+msgid "Profile Padding"
+msgstr ""
+
+#: block.js:1
+msgid "Details Padding"
+msgstr ""
+
+#: block.js:1
+msgid "Profile Border Radius"
+msgstr ""
+
+#: block.js:1
+msgid "Image Rotate"
+msgstr ""
+
+#: block.js:1
+msgid "Image Spacing"
+msgstr ""
+
+#: block.js:1
+msgid "Overlay Background Color"
+msgstr ""
+
+#: block.js:1
+msgid "Team Details"
+msgstr ""
+
+#: block.js:1
+msgid "Overlay Profile"
+msgstr ""
+
+#: block.js:1
+msgid "Social Hover"
+msgstr ""
+
+#: block.js:1
+msgid "Job Typography"
+msgstr ""
+
+#: block.js:1
+msgid "Profile Background"
+msgstr ""
+
+#: block.js:1
+msgid "Profile Border"
+msgstr ""
+
+#: block.js:1
+msgid "Image Border"
+msgstr ""
+
+#: block.js:1
+msgid "Email"
+msgstr ""
+
+#: block.js:1
+msgid "Icon Background Color"
+msgstr ""
+
+#: block.js:1
+msgid "Text Background Color"
+msgstr ""
+
+#: block.js:1
+msgid "Text Padding"
+msgstr ""
+
+#: block.js:1
+msgid "Show Share Text"
+msgstr ""
+
+#: block.js:1
+msgid "Share Text"
+msgstr ""
+
+#: block.js:1
+msgid "Loading Share Button..."
+msgstr ""
+
+#: block.js:1
+msgid "Gutenverse Social Share Email"
+msgstr ""
+
+#: block.js:1
+msgid "Share on Email"
+msgstr ""
+
+#: block.js:1
+msgid "Gutenverse Social Share Facebook"
+msgstr ""
+
+#: block.js:1
+msgid "Share on Facebook"
+msgstr ""
+
+#: block.js:1
+msgid "facebook"
+msgstr ""
+
+#: block.js:1
+msgid "Gutenverse Social Share Line"
+msgstr ""
+
+#: block.js:1
+msgid "Share on Line"
+msgstr ""
+
+#: block.js:1
+msgid "Line"
+msgstr ""
+
+#: block.js:1
+msgid "Gutenverse Social Share Linkedin"
+msgstr ""
+
+#: block.js:1
+msgid "Share on Linkedin"
+msgstr ""
+
+#: block.js:1
+msgid "linkedin"
+msgstr ""
+
+#: block.js:1
+msgid "Gutenverse Social Share Pinterest"
+msgstr ""
+
+#: block.js:1
+msgid "Share on Pinterest"
+msgstr ""
+
+#: block.js:1
+msgid "pinterest"
+msgstr ""
+
+#: block.js:1
+msgid "Gutenverse Social Share Reddit"
+msgstr ""
+
+#: block.js:1
+msgid "Share on Reddit"
+msgstr ""
+
+#: block.js:1
+msgid "reddit"
+msgstr ""
+
+#: block.js:1
+msgid "Gutenverse Social Share Stumbleupon"
+msgstr ""
+
+#: block.js:1
+msgid "Share on Stumbleupon"
+msgstr ""
+
+#: block.js:1
+msgid "stumbleupon"
+msgstr ""
+
+#: block.js:1
+msgid "Gutenverse Social Share Telegram"
+msgstr ""
+
+#: block.js:1
+msgid "Share on Telegram"
+msgstr ""
+
+#: block.js:1
+msgid "telegram"
+msgstr ""
+
+#: block.js:1
+msgid "Gutenverse Social Share Tumblr"
+msgstr ""
+
+#: block.js:1
+msgid "Share on Tumblr"
+msgstr ""
+
+#: block.js:1
+msgid "tumblr"
+msgstr ""
+
+#: block.js:1
+msgid "Gutenverse Social Share Twitter"
+msgstr ""
+
+#: block.js:1
+msgid "Share on Twitter"
+msgstr ""
+
+#: block.js:1
+msgid "twitter"
+msgstr ""
+
+#: block.js:1
+msgid "Gutenverse Social Share Vk"
+msgstr ""
+
+#: block.js:1
+msgid "Share on Vk"
+msgstr ""
+
+#: block.js:1
+msgid "vk"
+msgstr ""
+
+#: block.js:1
+msgid "Gutenverse Social Share Wechat"
+msgstr ""
+
+#: block.js:1
+msgid "Share on Wechat"
+msgstr ""
+
+#: block.js:1
+msgid "wechat"
+msgstr ""
+
+#: block.js:1
+msgid "Gutenverse Social Share Whatsapp"
+msgstr ""
+
+#: block.js:1
+msgid "Share on Whatsapp"
+msgstr ""
+
+#: block.js:1
+msgid "whatsapp"
+msgstr ""
+
+#: block.js:1
+msgid "Choose Form"
+msgstr ""
+
+#: block.js:1
+msgid "Hide After Submit"
+msgstr ""
+
+#: block.js:1
+msgid "Redirect To"
+msgstr ""
+
+#: block.js:1
+#: settings.js:1
+msgid "Form"
+msgstr ""
+
+#: block.js:1
+msgid "Show Label"
+msgstr ""
+
+#: block.js:1
+msgid "Label Position"
+msgstr ""
+
+#: block.js:1
+msgid "Show Helper"
+msgstr ""
+
+#: block.js:1
+msgid "Display input helper in the bottom"
+msgstr ""
+
+#: block.js:1
+msgid "Input Placeholder"
+msgstr ""
+
+#: block.js:1
+msgid "Input Name"
+msgstr ""
+
+#: block.js:1
+msgid "Label Width in Percent"
+msgstr ""
+
+#: block.js:1
+msgid "Label Color"
+msgstr ""
+
+#: block.js:1
+msgid "Label Padding"
+msgstr ""
+
+#: block.js:1
+msgid "Label Margin"
+msgstr ""
+
+#: block.js:1
+msgid "Require Indicator Color"
+msgstr ""
+
+#: block.js:1
+msgid "Helper Color"
+msgstr ""
+
+#: block.js:1
+msgid "Helper Typography"
+msgstr ""
+
+#: block.js:1
+msgid "Helper Padding"
+msgstr ""
+
+#: block.js:1
+msgid "Warning Color"
+msgstr ""
+
+#: block.js:1
+msgid "Warning Typography"
+msgstr ""
+
+#: block.js:1
+msgid "Option Display"
+msgstr ""
+
+#: block.js:1
+msgid "Select how options are stacked"
+msgstr ""
+
+#: block.js:1
+msgid "Label Space"
+msgstr ""
+
+#: block.js:1
+msgid "Checkbox Size"
+msgstr ""
+
+#: block.js:1
+msgid "Checkbox Space"
+msgstr ""
+
+#: block.js:1
+msgid "Checkbox Label Color"
+msgstr ""
+
+#: block.js:1
+msgid "Checkbox Label Typography"
+msgstr ""
+
+#: block.js:1
+msgid "Checkbox Color"
+msgstr ""
+
+#: block.js:1
+msgid "Checkbox Active Color"
+msgstr ""
+
+#: block.js:1
+msgid "Checkbox Options"
+msgstr ""
+
+#: block.js:1
+msgid "Label"
+msgstr ""
+
+#: block.js:1
+msgid "Value"
+msgstr ""
+
+#: block.js:1
+msgid "Required"
+msgstr ""
+
+#: block.js:1
+msgid "Check this option to make user required to fill this input"
+msgstr ""
+
+#: block.js:1
+msgid "Warning Message"
+msgstr ""
+
+#: block.js:1
+msgid "Validation message if the required input is incorrect"
+msgstr ""
+
+#: block.js:1
+msgid "Checkbox Content"
+msgstr ""
+
+#: block.js:1
+msgid "Validation"
+msgstr ""
+
+#: block.js:1
+msgid "Label Style"
+msgstr ""
+
+#: block.js:1
+msgid "Main Wrapper"
+msgstr ""
+
+#: block.js:1
+msgid "Input Style"
+msgstr ""
+
+#: block.js:1
+msgid "Label Title"
+msgstr ""
+
+#: block.js:1
+msgid "Input Helper"
+msgstr ""
+
+#: block.js:1
+msgid "Please put input element inside Form Builder"
+msgstr ""
+
+#: block.js:1
+msgid "Input Padding"
+msgstr ""
+
+#: block.js:1
+msgid "Input Margin"
+msgstr ""
+
+#: block.js:1
+msgid "Input Placeholder Color"
+msgstr ""
+
+#: block.js:1
+msgid "Input Typography"
+msgstr ""
+
+#: block.js:1
+msgid "Input Color Normal"
+msgstr ""
+
+#: block.js:1
+msgid "Input Background Color Normal"
+msgstr ""
+
+#: block.js:1
+msgid "Input Color Hover"
+msgstr ""
+
+#: block.js:1
+msgid "Input Background Color Hover"
+msgstr ""
+
+#: block.js:1
+msgid "Input Color Focus"
+msgstr ""
+
+#: block.js:1
+msgid "Input Background Color Focus"
+msgstr ""
+
+#: block.js:1
+msgid "Date Range"
+msgstr ""
+
+#: block.js:1
+msgid "Set Minimum date"
+msgstr ""
+
+#: block.js:1
+msgid "Set Maximum date"
+msgstr ""
+
+#: block.js:1
+msgid "Input Settings"
+msgstr ""
+
+#: block.js:1
+msgid "Validation Type"
+msgstr ""
+
+#: block.js:1
+msgid "Minimum Length"
+msgstr ""
+
+#: block.js:1
+msgid "Maximum Length"
+msgstr ""
+
+#: block.js:1
+msgid "Input Text Color"
+msgstr ""
+
+#: block.js:1
+msgid "Input Background Color"
+msgstr ""
+
+#: block.js:1
+msgid "Options Text Color Normal"
+msgstr ""
+
+#: block.js:1
+msgid "Options Background Color Normal"
+msgstr ""
+
+#: block.js:1
+msgid "Options Border Normal"
+msgstr ""
+
+#: block.js:1
+msgid "Options Text Color Hover"
+msgstr ""
+
+#: block.js:1
+msgid "Options Background Color Hover"
+msgstr ""
+
+#: block.js:1
+msgid "Options Border Hover"
+msgstr ""
+
+#: block.js:1
+msgid "Selected Text Color"
+msgstr ""
+
+#: block.js:1
+msgid "Selected Background Color"
+msgstr ""
+
+#: block.js:1
+msgid "Selected Border Color"
+msgstr ""
+
+#: block.js:1
+msgid "Select Options"
+msgstr ""
+
+#: block.js:1
+msgid "Selected"
+msgstr ""
+
+#: block.js:1
+msgid "Disabled"
+msgstr ""
+
+#: block.js:1
+msgid "Select Content"
+msgstr ""
+
+#: block.js:1
+msgid "Selected Style"
+msgstr ""
+
+#: block.js:1
+msgid "Remove item"
+msgstr ""
+
+#: block.js:1
+msgid "Min Number"
+msgstr ""
+
+#: block.js:1
+msgid "Max Number"
+msgstr ""
+
+#: block.js:1
+msgid "Number Step"
+msgstr ""
+
+#: block.js:1
+msgid "Radio Size"
+msgstr ""
+
+#: block.js:1
+msgid "Radio Space"
+msgstr ""
+
+#: block.js:1
+msgid "Radio Label Color"
+msgstr ""
+
+#: block.js:1
+msgid "Radio Typography"
+msgstr ""
+
+#: block.js:1
+msgid "Radio Color"
+msgstr ""
+
+#: block.js:1
+msgid "Radio Active Color"
+msgstr ""
+
+#: block.js:1
+msgid "Radio Options"
+msgstr ""
+
+#: block.js:1
+msgid "Input Text Color Normal"
+msgstr ""
+
+#: block.js:1
+msgid "Options Background Color"
+msgstr ""
+
+#: block.js:1
+msgid "Input Text Color Active"
+msgstr ""
+
+#: block.js:1
+msgid "Selected Option Color"
+msgstr ""
+
+#: block.js:1
+msgid "Loading Icon Size"
+msgstr ""
+
+#: block.js:1
+msgid "Loading Color"
+msgstr ""
+
+#: block.js:1
+msgid "Loading Indicator"
+msgstr ""
+
+#: block.js:1
+msgid "OFF Text"
+msgstr ""
+
+#: block.js:1
+msgid "ON Text"
+msgstr ""
+
+#: block.js:1
+msgid "Switcher Width"
+msgstr ""
+
+#: block.js:1
+msgid "Switcher Height"
+msgstr ""
+
+#: block.js:1
+msgid "Off Background Color"
+msgstr ""
+
+#: block.js:1
+msgid "Off Button Color"
+msgstr ""
+
+#: block.js:1
+msgid "Off Text Color"
+msgstr ""
+
+#: block.js:1
+msgid "On Background Color"
+msgstr ""
+
+#: block.js:1
+msgid "On Button Color"
+msgstr ""
+
+#: block.js:1
+msgid "On Text Color"
+msgstr ""
+
+#: block.js:1
+msgid "Telp Pattern"
+msgstr ""
+
+#: block.js:1
+msgid "Put your telephone number pattern to give clue to your user"
+msgstr ""
+
+#: block.js:1
+msgid "Textarea height"
+msgstr ""
+
+#: block.js:1
+msgid "Textarea height in px unit"
+msgstr ""
+
+#: block.js:1
+msgid "Paragraph Spacing"
+msgstr ""
+
+#: block.js:1
+msgid "Input Helper color"
+msgstr ""
+
+#: block.js:1
+msgid "CSS Variable"
+msgstr ""
+
+#: block.js:1
+msgid "Delete Color Variable"
+msgstr ""
+
+#: block.js:1
+msgid "You are about to delete one of your Color Variable. If you are assign this color variable to blocks, it will lost the color."
+msgstr ""
+
+#: block.js:1
+msgid "Delete"
+msgstr ""
+
+#: block.js:1
+msgid "Add Color"
+msgstr ""
+
+#: block.js:1
+msgid "Delete Font Variable"
+msgstr ""
+
+#: block.js:1
+msgid "You are about to delete one of your Font Variable. If you are assign this variable to blocks, it will lost the typography."
+msgstr ""
+
+#: block.js:1
+msgid "Create Font"
+msgstr ""
+
+#: block.js:1
+msgid "Add Font"
+msgstr ""
+
+#: frontend.js:1
+msgid "SUCCESS: Form successfully submitted."
+msgstr ""
+
+#: frontend.js:1
+msgid "ERROR : Form submit failed."
+msgstr ""
+
+#: frontend.js:1
+msgid "WARNING : Email confirmation is on, but you're not logged in."
+msgstr ""
+
+#: settings.js:1
+msgid "This setting will be the default for email confirmation when you create a new form."
+msgstr ""
+
+#: settings.js:1
+msgid "Save"
+msgstr ""
+
+#: settings.js:1
+msgid "This setting will be the default for admin notification when you create a new form."
+msgstr ""
+
+#: settings.js:1
+msgid "User Confirmation"
+msgstr ""
+
+#: settings.js:1
+msgid "Admin Notification"
+msgstr ""
+
+#: settings.js:1
+msgid "Gutenverse Settings"
+msgstr ""

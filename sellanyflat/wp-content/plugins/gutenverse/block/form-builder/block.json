@@ -1,0 +1,71 @@
+{
+    "apiVersion": 2,
+    "name": "gutenverse/form-builder",
+    "title": "Gutenverse Form Builder",
+    "description": "Build a flexible form with many field choices.",
+    "category": "gutenverse-structure",
+    "attributes": {
+        "elementId": {
+            "type": "string"
+        },
+        "formId": {
+            "type": "object"
+        },
+        "hideAfterSubmit": {
+            "type": "boolean"
+        },
+        "redirectTo": {
+            "type": "string"
+        },
+        "background": {
+            "type": "object",
+            "default": {}
+        },
+        "backgroundHover": {
+            "type": "object",
+            "default": {}
+        },
+        "border": {
+            "type": "object"
+        },
+        "boxShadow": {
+            "type": "object"
+        },
+        "borderHover": {
+            "type": "object"
+        },
+        "boxShadowHover": {
+            "type": "object"
+        },
+        "margin": {
+            "type": "object"
+        },
+        "padding": {
+            "type": "object"
+        },
+        "zIndex": {
+            "type": "object"
+        },
+        "animation": {
+            "type": "object",
+            "default": {}
+        },
+        "hideDesktop": {
+            "type": "boolean"
+        },
+        "hideTablet": {
+            "type": "boolean"
+        },
+        "hideMobile": {
+            "type": "boolean"
+        }
+    },
+    "supports": {
+        "className": false
+    },
+    "keywords": [
+        "form",
+        "entry",
+        "submit"
+    ]
+}

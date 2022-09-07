@@ -1,0 +1,180 @@
+{
+  "apiVersion": 2,
+  "name": "gutenverse/section",
+  "title": "Gutenverse Section",
+  "description": "Add a section to wrap several blocks or column.",
+  "category": "gutenverse-structure",
+  "attributes": {
+    "layout": {
+      "type": "string",
+      "default": "boxed"
+    },
+    "sticky": {
+      "type": "object",
+      "default": {
+        "Desktop": false
+      }
+    },
+    "stickyPosition": {
+      "type": "string",
+      "default": "top"
+    },
+    "topSticky": {
+      "type": "object",
+      "default": {
+        "Desktop": {
+          "point": "0",
+          "unit": "px"
+        }
+      }
+    },
+    "bottomSticky": {
+      "type": "object",
+      "default": {
+        "Desktop": {
+          "point": "0",
+          "unit": "px"
+        }
+      }
+    },
+    "stickyIndex": {
+      "type": "int",
+      "default": 99
+    },
+    "stickyBackground": {
+      "type": "object"
+    },
+    "stickyBoxShadow": {
+      "type": "object"
+    },
+    "width": {
+      "type": "object",
+      "default": {
+        "Desktop": 1140
+      }
+    },
+    "isChild": {
+      "type": "boolean",
+      "default": false
+    },
+    "height": {
+      "type": "object",
+      "default": {}
+    },
+    "gap": {
+      "type": "string",
+      "default": "default"
+    },
+    "elementId": {
+      "type": "string"
+    },
+    "heightControl": {
+      "type": "string",
+      "default": "default"
+    },
+    "align": {
+      "type": "string",
+      "default": "stretch"
+    },
+    "verticalAlign": {
+      "type": "string",
+      "default": "default"
+    },
+    "overflow": {
+      "type": "string",
+      "default": "none"
+    },
+    "childTotal": {
+      "type": "int"
+    },
+    "background": {
+      "type": "object",
+      "default": {}
+    },
+    "backgroundHover": {
+      "type": "object",
+      "default": {}
+    },
+    "backgroundOverlay": {
+      "type": "object"
+    },
+    "opacity": {
+      "type": "float"
+    },
+    "backgroundOverlayHover": {
+      "type": "object"
+    },
+    "opacityHover": {
+      "type": "float"
+    },
+    "border": {
+      "type": "object"
+    },
+    "boxShadow": {
+      "type": "object"
+    },
+    "borderHover": {
+      "type": "object"
+    },
+    "boxShadowHover": {
+      "type": "object"
+    },
+    "topDivider": {
+      "type": "object",
+      "default": {}
+    },
+    "bottomDivider": {
+      "type": "object",
+      "default": {}
+    },
+    "margin": {
+      "type": "object"
+    },
+    "padding": {
+      "type": "object"
+    },
+    "zIndex": {
+      "type": "object"
+    },
+    "animation": {
+      "type": "object",
+      "default": {}
+    },
+    "hideDesktop": {
+      "type": "boolean"
+    },
+    "hideTablet": {
+      "type": "boolean"
+    },
+    "hideMobile": {
+      "type": "boolean"
+    },
+    "typographyHeadingColor": {
+      "type": "object"
+    },
+    "typographyTextColor": {
+      "type": "object"
+    },
+    "typographyLinkColor": {
+      "type": "object"
+    },
+    "typographyLinkHoverColor": {
+      "type": "object"
+    },
+    "typographyTextAlign": {
+      "type": "object"
+    },
+    "wrapColumn": {
+      "type": "object",
+      "default": {
+        "Desktop": false,
+        "Tablet": false,
+        "Mobile": true
+      }
+    }
+  },
+  "keywords": ["container", "section"],
+  "editor_script": "gutenverse",
+  "editor_style": "gutenverse-editor-style",
+  "style": "gutenverse-frontend-style"
+}

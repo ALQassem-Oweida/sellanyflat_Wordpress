@@ -1,0 +1,10 @@
+.entry-title {
+    background-color: #F5F7FE;
+    padding: 10px 14px;
+    font-weight: 600;
+}
+
+.entry-data {
+    padding: 10px 14px;
+    border: 1px solid #F5F7FE;
+}
